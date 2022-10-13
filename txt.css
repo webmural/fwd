@@ -1,5 +1,5 @@
 :root {
-  font-size: max(1em, 2vmin + 3vmax);
+  font: max(1em, 2vmin + 3vmax) sans-serif;
 }
 
 :any-link {
